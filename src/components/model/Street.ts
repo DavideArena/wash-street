@@ -15,12 +15,12 @@ export class Street {
 export const defaultStreets: Street[] = [
     {
         name: 'Stradina',
-        occurrences: [2, 4],
+        occurrences: [1, 3],
         weekDay: 0,
         washDays: undefined
     }, {
         name: 'Parcheggio',
-        occurrences: [1, 3],
+        occurrences: [2, 4],
         weekDay: 1,
         washDays: undefined
     }
